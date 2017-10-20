@@ -97,7 +97,7 @@ PARSERS = [
            ['tescan.tima.tima', 'TimaCSVParser'],
            ['thermoscientific.multiskan.go', 'ThermoScientificMultiskanGOCSVParser'],
            ['myself.myinstrument', 'MyInstrumentCSVParser'],
-           ['nuclisens.easyq', 'EasyQParser'],
+           ['nuclisens.easyq', 'EasyQXMLParser'],
            ['genexpert.genexpert', 'GeneXpertParser'],
            ]
 
